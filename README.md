@@ -1,4 +1,6 @@
-## Hi there 👋
+## I am NuggsIsHere and I like long walks on the beach
+## I also love cybersecurity and networking and am currently in university for Cybersecurity
+## I have always wanted to make a text based adventure game, but I am not creative enough
 
 <!--
 **NuggsIsHere/NuggsIsHere** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
